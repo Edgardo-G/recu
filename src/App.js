@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './calculadora.png';
 import './App.css';
 
 function suma(a,b){
