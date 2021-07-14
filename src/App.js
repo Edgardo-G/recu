@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function suma(a,b){
-  return a + b;
+  return a - b;
 }
 
 function App() {
