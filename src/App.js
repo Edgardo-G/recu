@@ -2,7 +2,7 @@ import logo from './calculadora.png';
 import './App.css';
 
 function suma(a,b){
-  return a + b;
+  return a * b;
 }
 
 function App() {
@@ -19,3 +19,4 @@ function App() {
 }
 
 export default App;
+
