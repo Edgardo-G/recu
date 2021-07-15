@@ -16,15 +16,3 @@ deploy:
   branch: main 
 notifications:
  slack: is-parcial3:0cll7B5cPzovBcK0cYEuQVt7
-
-  # notifications:
-  # slack:
-  #   rooms:
-  #   - is-parcial3:0cll7B5cPzovBcK0cYEuQVt7#general
-  #   - is-parcial3:0cll7B5cPzovBcK0cYEuQVt7#random
-
-  #   token 0cll7B5cPzovBcK0cYEuQVt7
-
-  #   travis encrypt "is-parcial3:0cll7B5cPzovBcK0cYEuQVt7" --add notifications.slack -r accountName/repoName
-
-  #   travis encrypt "is-parcial3:0cll7B5cPzovBcK0cYEuQVt7" --add notifications.slack
